@@ -1,0 +1,267 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+*{
+    height: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+}
+
+body{
+    background:linear-gradient(gray,rgb(172, 169, 169));
+    width: 83.333vw;
+    height: 120vh;
+}
+
+
+.rectangle-3{
+    background-color: white;
+    top: 10.417vw;
+    left: 10vh;
+    width: 72.917vw;
+    height: 84vh;
+    position: absolute;
+    z-index: -1;
+}
+.logo{
+    background-color: white;
+    top: 12.143vw;
+    left: 17.3vh;
+    width: 10.208vw;
+    height: 4vh;
+    position: absolute;
+    z-index: 1;
+
+ }
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.linea{
+    top: 15.104vw;
+    left: 114.0vh;
+    width: 4.167vw;
+    height: 0.2vh;
+    position: absolute;
+    z-index: 1;
+}
+
+.comp{
+    background-color: white;
+    font-size: 1.3vmax;
+    top: 12.76vw;
+    left: 84vh;
+    width: 11.979vw;
+    height: 4.1vh;
+    position: absolute;
+    z-index: 1;
+}
+
+.sldo{
+    font-size: 1.3vmax;
+    top: 12.76vw;
+    left: 112.5vh;
+    width: 6.875vw;
+    height: 4.1vh;
+    position: absolute;
+    z-index: 1;
+}
+
+.search{
+    top: 13.125vw;
+    left: 128.4vh;
+    width: 1.406vw;
+    height: 2.7vh;
+    position: absolute;
+    z-index: 1;
+}
+
+.cart{
+    top: 13.125vw;
+    left: 138.4vh;
+    width: 3.5vh;
+    height: 3.2vh;
+    position: absolute;
+    z-index: 1;
+}
+
+.targeta{
+    top: 15.781vw;
+    left: 45.9vh;
+    width: 35vw;
+    height: 34.4vh;
+    position: absolute;
+    z-index: 1;
+}
+
+.name{
+    font-size: 2vmax;
+    top: 31.771vw;
+    left: 42.7vh;
+    position: absolute;
+    z-index: 1;
+}
+
+.saldoa{
+    font-size: 1.5vmax;
+    top: 35.5vw;
+    left: 60.3vh;
+    position: absolute;
+    z-index: 1;
+}
+
+.saldoe{
+    font-size: 1.5vmax;
+    top: 38.75vw;
+    left: 67.0vh;
+    position: absolute;
+    z-index: 1;
+
+}
+
+.boton{
+    border-radius: 0.52vw;
+    background-color: white;
+    color: gray;
+    top: 41.615vw;
+    left: 65.9vh;
+    width: 10.6vw;
+    text-align: center;
+    position: absolute;
+    z-index: 1;
+    border: 1px solid gray;
+    padding: 20px;
+    margin: 0px;
+    font-size: 1.2vmax;
+
+}
+
+.boton p{
+    margin: -16px;
+}
+.sa{
+    text-align: center;
+    border: 2px solid gray;
+    padding: 15px;
+    margin: 0px;
+    color: gray;
+    font-size: 1.5vmax;
+    top: 319.6vw;
+    left: 70vh;
+    width: 115.2vw;
+    position: absolute;
+    z-index: 1;
+}
+
+.rectangle-1{
+    top: 10.4vw;
+    left: 145vh;
+    width: 6.2vw;
+    height: 84.1vh;
+    position: absolute;
+    z-index: 1;
+
+}
+
+
+
+.up{
+    top: 13.5vw;
+    left: 150.3vh;
+    width: 1.25vw;
+    height: 1.4vh;
+    position: absolute;
+    z-index: 1;
+}
+
+.down{
+    top: 47.271vw;
+    left: 150.3vh;
+    width: 1.25vw;
+    height: 1.4vh;
+    position: absolute;
+    z-index: 1;
+}
+.rectangle-2{
+    top: 44.115vw;
+    left: 118vh;
+    width: 8.333vw;
+    height: 11.4vh;
+    position: absolute;
+    z-index: 1;
+}
+.rectangle-2{
+    top: 44.115vw;
+    left: 118vh;
+    width: 8.333;
+    height: 11.4vh;
+    position: relative;
+    z-index: 1;
+}
+
+.val{
+    font-size: 1.4vmax;
+    color: white;
+    top: 19.115vw;
+    left: 148.1vh;
+    width: 4.375vw;
+    height: 2.7vh;
+    position: absolute;
+    z-index: 1;
+    
+}
+
+.num01{
+    color: rgb(151, 150, 150);
+    font-size: 1.4vmax;
+    top: 26.406vw;
+    left: 146.8vh;
+    width: 1.198vw;
+    height: 18.7vh;
+    position: absolute;
+    z-index: 1;
+}
+
+.num02{
+    color: rgb(252, 250, 250);
+    font-size: 1.4vmax;
+    top: 31.406vw;
+    left: 146.8vh;
+    width: 1.198vw;
+    height: 18.7vh;
+    position: absolute;
+    z-index: 1;
+}
+
+.num03{
+    color: rgb(151, 150, 150);
+    font-size: 1.4vmax;
+    top: 36.406vw;
+    left: 146.8vh;
+    width: 1.198vw;
+    height: 18.7vh;
+    position: absolute;
+    z-index: 1;
+}
+
+
+.logo3{
+    top: 44.625vw;
+    left: 119.5vh;
+    width: 6.719vw;
+    height: 2.9vh;
+    position: absolute;
+    z-index: 1;
+}
+
+.Compra{
+    font-size: 1.6;
+    top: 46.76vw;
+    left: 121.5vh;
+    width: 5.781vw;
+    height: 3.6vh;
+    position: absolute;
+    z-index: 1;
+}
