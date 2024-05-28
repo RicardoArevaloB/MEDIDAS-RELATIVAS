@@ -15,11 +15,10 @@ body{
 
 
 .rectangle-3{
-    background-color: white;
     top: 10.417vw;
     left: 10vh;
-    width: 72.917vw;
-    height: 84vh;
+    width: auto;
+    height: auto;
     position: absolute;
     z-index: -1;
 }
@@ -27,8 +26,8 @@ body{
     background-color: white;
     top: 12.143vw;
     left: 17.3vh;
-    width: 10.208vw;
-    height: 4vh;
+    width:auto;
+    height: auto;
     position: absolute;
     z-index: 1;
 

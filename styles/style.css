@@ -21,8 +21,8 @@ body{
     background-color: white;
     top: 10.417vw;
     left: 10vh;
-    width: 72.917vw;
-    height: 84vh;
+    width: auto;
+    height: 83vh;
     position: absolute;
     z-index: -1;
 }
@@ -44,8 +44,8 @@ a{
 
 .linea{
     top: 15.104vw;
-    left: 114.0vh;
-    width: 4.167vw;
+    left: 87.0vh;
+    width: auto;
     height: 0.2vh;
     position: absolute;
     z-index: 1;
@@ -53,20 +53,20 @@ a{
 
 .comp{
     background-color: white;
-    font-size: 1.3vmax;
+    font-size: 2.5vmin;
     top: 12.76vw;
     left: 84vh;
-    width: 11.979vw;
+    width: auto;
     height: 4.1vh;
     position: absolute;
     z-index: 1;
 }
 
 .sldo{
-    font-size: 1.3vmax;
+    font-size: 2.5vmin;
     top: 12.76vw;
     left: 112.5vh;
-    width: 6.875vw;
+    width: auto;
     height: 4.1vh;
     position: absolute;
     z-index: 1;
@@ -75,7 +75,7 @@ a{
 .search{
     top: 13.125vw;
     left: 128.4vh;
-    width: 1.406vw;
+    width: auto;
     height: 2.7vh;
     position: absolute;
     z-index: 1;
@@ -84,7 +84,7 @@ a{
 .cart{
     top: 13.125vw;
     left: 138.4vh;
-    width: 3.5vh;
+    width: auto;
     height: 3.2vh;
     position: absolute;
     z-index: 1;
@@ -92,9 +92,9 @@ a{
 
 .targeta{
     top: 16.771vw;
-    left: 227px;
-    width: 46.042vw;
-    height: 49.7vh;
+    left: 17vw;
+    width: auto;
+    height: 48.7vh;
     position: absolute;
     z-index: 1;
 }
@@ -102,36 +102,36 @@ a{
 .rectangle-2{
     top: 44.115vw;
     left: 118vh;
-    width: 8.333;
+    width: auto;
     height: 11.4vh;
-    position: relative;
+    position: absolute;
     z-index: 1;
 }
 
 .logo3{
     top: 44.625vw;
     left: 119.5vh;
-    width: 6.719vw;
+    width: auto;
     height: 2.9vh;
     position: absolute;
     z-index: 1;
 }
 
 .Compra{
-    font-size: 1.6;
+    font-size: 1.2vmax;
     top: 46.76vw;
     left: 121.5vh;
-    width: 5.781vw;
+    width: auto;
     height: 3.6vh;
-    position: absolute;
+    position: relative;
     z-index: 1;
 }
 
 .rectangle-1{
     top: 10.4vw;
     left: 145vh;
-    width: 6.2vw;
-    height: 84.1vh;
+    width: auto;
+    height: 83.1vh;
     position: absolute;
     z-index: 1;
 
@@ -142,7 +142,7 @@ a{
 .up{
     top: 13.5vw;
     left: 150.3vh;
-    width: 1.25vw;
+    width: auto;
     height: 1.4vh;
     position: absolute;
     z-index: 1;
@@ -151,7 +151,7 @@ a{
 .down{
     top: 47.271vw;
     left: 150.3vh;
-    width: 1.25vw;
+    width: auto;
     height: 1.4vh;
     position: absolute;
     z-index: 1;
@@ -162,7 +162,7 @@ a{
     color: white;
     top: 19.115vw;
     left: 146.1vh;
-    width: 4.375vw;
+    width: auto;
     height: 2.7vh;
     position: absolute;
     z-index: 1;
@@ -173,7 +173,7 @@ a{
     font-size: 1.4vmax;
     top: 26.406vw;
     left: 148.8vh;
-    width: 1.198vw;
+    width: auto;
     height: 18.7vh;
     position: absolute;
     z-index: 1;
@@ -184,7 +184,7 @@ a{
     font-size: 1.4vmax;
     top: 31.406vw;
     left: 148.8vh;
-    width: 1.198vw;
+    width: auto;
     height: 18.7vh;
     position: absolute;
     z-index: 1;
@@ -195,30 +195,29 @@ a{
     font-size: 1.4vmax;
     top: 36.406vw;
     left: 148.8vh;
-    width: 1.198vw;
+    width: auto;
     height: 18.7vh;
     position: absolute;
     z-index: 1;
 }
 
 .footer{
-    font-size: 1.6vmax;
+    font-size: 4vmin;
     top: 44.844vw;
     left: 15.8vh;
-    width: 37.292vw;
-    height: 5.5vh;
+    width: auto;
+    height: auto;
     position: absolute;
     z-index: 1;
 }
 
 .footer2{
-    font-size: 1.3vmax;
+    font-size: 2.2vmin;
     top: 48.125vw;
     left: 15.7vh;
-    width: 7.24vw;
-    height: 3.7vh;
+    width: auto;
+    height: auto;
     position: absolute;
     z-index: 1;
 }
-
 
